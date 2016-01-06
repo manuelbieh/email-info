@@ -1,0 +1,42 @@
+{
+	"providers": {
+		"gmail": {
+			"webmail": "https://mail.google.com/",
+			"servers": {
+				"imap": {
+					"host": "imap.gmail.com",
+					"port": 993,
+				},
+				"pop": {
+					"host": "pop.gmail.com",
+					"port": 995
+				},
+				"smtp": {
+					"host": "smtp.gmail.com",
+					"port": 465
+				}
+			}
+		},
+		"outlook": {
+			"webmail": "https://login.live.com/"
+		},
+		"yahoo": {
+			"webmail": "https://login.yahoo.com/"
+		},
+		"mail.ru": {
+			"webmail": "https://e.mail.ru/login"
+		}
+		"gmx": {
+			"webmail": "https://www.gmx.net/"
+		},
+		"web.de": {
+			"webmail": "https://web.de/"
+		},
+		"epost": {
+			"webmail": "https://portal.epost.de/login"
+		},
+		"t-online": {
+			"webmail": "email.t-online.de"
+		}
+	}
+}

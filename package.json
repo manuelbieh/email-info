@@ -1,0 +1,20 @@
+{
+  "name": "email-info",
+  "version": "0.0.1",
+  "description": "Parse email addresses and get information about the used email provider.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:manuelbieh/email-info.git"
+  },
+  "keywords": [
+    "email",
+    "meta",
+    "info"
+  ],
+  "author": "Manuel Bieh",
+  "license": "MIT"
+}
