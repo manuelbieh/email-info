@@ -4,7 +4,7 @@
         "servers": {
             "imap": {
                 "host": "imap.gmail.com",
-                "port": 993,
+                "port": 993
             },
             "pop": {
                 "host": "pop.gmail.com",
